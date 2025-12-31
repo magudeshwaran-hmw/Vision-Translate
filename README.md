@@ -1,10 +1,13 @@
 # 🌍 Text-to-Text Language Translator (Python)
 
-This is a simple yet powerful text-to-text language translation project built using Python.
+This is a simple yet powerful text-to-text language translation project built using Python and Streamlit.
 
-## 🔹 Features
+## � Live Demo
+[👉 Click Here to Try the App](https://magudeshwaran-vision-translate.streamlit.app/)
+
+## �🔹 Features
 - Translate text between ALL major languages
-- Simple CLI-based application
+- Modern Streamlit Web Interface
 - Uses Google Translator via deep-translator
 - Clean project structure
 
@@ -31,7 +34,7 @@ pip install -r requirements.txt
 2️⃣ Run the app  
 
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 3️⃣ Enter:
